@@ -1,0 +1,50 @@
+BODY {
+	FONT-SIZE: 12px; CURSOR: default; COLOR: #555555; FONT-FAMILY: arial
+}
+TD {
+	FONT-SIZE: 12px; CURSOR: default; COLOR: #555555; FONT-FAMILY: arial
+}
+A {
+	COLOR: #ff8000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff8000; TEXT-DECORATION: underline
+}
+INPUT {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cccccc 1px solid; COLOR: #555555; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: arial; HEIGHT: 21px; BACKGROUND-COLOR: #f9f9f9
+}
+TEXTAREA {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 500px; COLOR: #555555; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: arial; BACKGROUND-COLOR: #f9f9f9
+}
+.subtitle {
+	FONT-SIZE: 20px; COLOR: #c0c0c0
+}
+.title {
+	FONT-SIZE: 28px; COLOR: #ff8000
+}
+.tlo {
+	BACKGROUND-COLOR: #cccccc
+}
+.white {
+	BACKGROUND-COLOR: #ffffff
+}
+.ramka {
+	BACKGROUND-COLOR: #aaaaaa
+}
+.cien {
+	BACKGROUND-COLOR: #f0f0f0
+}
+.tytul_ramki {
+	FONT-SIZE: 14px; COLOR: #ff8000; BACKGROUND-COLOR: #f9f9f9;
+}
+.tytul_ramki2 {
+	FONT-SIZE: 14px; COLOR: #ff8000; BACKGROUND-COLOR: #f9f9f9;
+ padding-left: 15px; padding-right: 15px; padding-top: 10px; padding-bottom: 10px;
+}
+.stopka {
+	FONT-SIZE: 12px; COLOR: #555555
+}
+
+.obrazek 
+{padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;
+}
